@@ -1,0 +1,70 @@
+[
+
+{
+"name": "Townhouse 654 The Arrow I6/92, Ram Krishna Marg, Sector 16, Rohini, Alipur Tehsil, North Delhinull, Delhi",
+"imageurls":[
+"file:///C:/Users/SHIVANGI/Desktop/VSCode/RapidRooms/client/public/images/hotel1-small.jpg","/images/hotel1-lg1.jfif","/images/hotel-1-lg2.jfif"],
+"rentperday":1500,
+"type":"Delux",
+"maxcount":3,
+"phonenumber":9989649278,
+"currentbookings":[
+],
+"description": "The OYO Townhouse 654 MANNAT ROHINI is a premium hotel designed for stylish experiences. The hotel is located in the hub of Delhi, just 21 km from India Gate and 17 km from Red Fort."
+},
+
+
+{
+"name": "OYO Hotel Landmark Inn 10184, Hotel Landmark I N N, Arya Samaj Road, Karol Bagh, Delhi I6/92, Ram Krishna Marg, Sector 16, Rohini, Alipur Tehsil, North Delhinull, Delhi",
+"imageurls":[
+"https://drive.google.com/file/d/1U1hRwPuUZh5A7bzVpBskOepqUL8KRsCY/view?usp=sharing","https://drive.google.com/file/d/1AwAG_ze0vJDfVElKmXPl3cA6dhqVjqpF/view?usp=sharing","https://drive.google.com/file/d/1zUjuaXrXWDR2KfU1lx-N08yC4ErUWsa7/view?usp=sharing"],
+"rentperday":1700,
+"type":"Delux",
+"maxcount":2,
+"phonenumber":9909849278,
+"currentbookings":[
+],
+"description": "Did you know that we’ve got 2.5 Crore bookings since March 2020? And this is all thanks to the sanitisation & safety measures followed at our properties, from disinfecting surfaces with high-quality cleaning products and maintaining social distance to using protective gear and more.."
+},
+
+{
+"name": "OYO Hotel J Joy Main Faiz Road (above Sbi Bank), Karol Bagh, Delhi",
+"imageurls":[
+"https://drive.google.com/file/d/1FIyECTuSgc2iIA0Pntr4tmHaxQNX0oaY/view?usp=sharing","https://drive.google.com/file/d/1n-_LCrwMIKSXWCwchi9myUKiY0c9XJZk/view?usp=sharing","https://drive.google.com/file/d/1HxPSMbMGBcn3GrELSzB7xg6J2wbB6zDw/view?usp=sharing"],
+"rentperday":808,
+"type":"Non-Delux",
+"maxcount":4,
+"phonenumber":9909844568,
+"currentbookings":[
+],
+"description": "Did you know that we’ve got 2.5 Crore bookings since March 2020? And this is all thanks to the sanitisation & safety measures followed at our properties, from disinfecting surfaces with high-quality cleaning products and maintaining social distance to using protective gear and more.."
+},
+
+{
+"name": "OYO Townhouse 483 Hotel Rivasa Regency B12, Main Chattarpur Road, Delhi",
+"imageurls":[
+"https://drive.google.com/file/d/1aIxtaiTUgSDQvAG8OtMLJhtXbEnBCX6t/view?usp=sharing","https://drive.google.com/file/d/1YXgptHk-kWIaeuEaNYTq2zs9tNPY2rsC/view?usp=sharing","https://drive.google.com/file/d/1VEQCL4ekSksv8-iD862KZ5bw5vfl_dH8/view?usp=sharing"],
+"rentperday":1203,
+"type":"Delux",
+"maxcount":2,
+"phonenumber":9909675568,
+"currentbookings":[
+],
+"description": "Townhouse 483 Hotel Rivasa Regency is the perfect destination for stylish experiences. It has an in-house restaurant, parking facility and offers guests a range of amenities to make their stay comfortable."
+},
+
+
+{
+"name": "OYO Home Diamond Stay Near Lotus Temple M 55, Lajpat Nagar, Delhi",
+"imageurls":[
+"https://drive.google.com/file/d/1pFqSLfdskBenf418fCs7_8Wp-5os3hSJ/view?usp=sharing","https://drive.google.com/file/d/1puhL5lguXQh_xbKQUEMHCmvS3wFXi8oG/view?usp=sharing","https://drive.google.com/file/d/1NrBHy10Jam-ZmKQi1p726E_1Wm0oplAw/view?usp=sharing"],
+"rentperday":1080,
+"type":"Non-Delux",
+"maxcount":2,
+"phonenumber":9909675568,
+"currentbookings":[],
+"description": "Townhouse 483 Hotel Rivasa Regency is the perfect destination for stylish experiences. It has an in-house restaurant, parking facility and offers guests a range of amenities to make their stay comfortable."
+}
+
+
+]
